@@ -4,7 +4,7 @@
 ### Ola! eu sou o Alisson! ✌️✌️
 
 
-------------------------------------------
+-------------------------------------------
 
 #### [ Redes ]
 
@@ -17,7 +17,7 @@
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonGCosta&show_icons=true&theme=dracula)
 
-------------------------------------------
+-------------------------------------------
 
 #### [Linguagens Mais utilizadas]
 
@@ -33,6 +33,8 @@
 ![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+-------------------------------------------
 
 ![Snake animation](https://github.com/AlissonGCosta/AlissonGCosta/blob/output/github-contribution-grid-snake.svg)
 

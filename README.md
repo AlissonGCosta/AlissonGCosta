@@ -34,4 +34,6 @@
 ![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![Snake animation](https://github.com/AlissonGCosta/AlissonGCosta/blob/output/github-contribution-grid-snake.svg)
+
 Estudante Apaixonado pelo Front e outras tecnologias!

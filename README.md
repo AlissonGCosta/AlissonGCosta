@@ -17,6 +17,13 @@
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonGCosta&show_icons=true&theme=dracula)
 
+------------------------------------------
+
+#### [Linguagens Mais utilizadas]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonGCosta)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -------------------------------------------
 

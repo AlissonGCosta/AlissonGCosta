@@ -3,6 +3,11 @@
 
 ### Ola! eu sou o Alisson! ✌️✌️
 
+-------------------------------------------
+
+###[Visitas]
+
+![Visitor Count](https://profile-counter.glitch.me/{AlissonGCost}/count.svg)
 
 -------------------------------------------
 

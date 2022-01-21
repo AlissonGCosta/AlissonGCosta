@@ -7,7 +7,7 @@
 
 ### [Visitas]
 
-![Visitor Count](https://profile-counter.glitch.me/{AlissonGCosta}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{AlissonGCosta}/count.svg)
 
 -------------------------------------------
 

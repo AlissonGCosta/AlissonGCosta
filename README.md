@@ -2,7 +2,7 @@
 
 ## About me
 
-lorem ipsum
+lorem ipsumm
 
 ## 🌐 Meus links
 

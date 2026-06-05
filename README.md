@@ -26,12 +26,24 @@ lorem ipsumm
 
 
 ## 🛠️ linguagens mais usadas 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonGCosta&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=AlissonGCosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+
 
 ## Contribuições 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonGCosta&show_icons=true&theme=transparent)
 
-
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=AlissonGCosta&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
 
 
 ## Cobrinha

@@ -2,7 +2,7 @@
 
 ## About me
 
-lorem ipsumm
+Sou estudante de Ciência da Computação e desenvolvedor Back-end em formação, com foco no ecossistema Java e Spring. Busco desenvolver projetos aplicando boas práticas, organização de código e princípios de Clean Architecture.
 
 ## 🌐 Meus links
 
